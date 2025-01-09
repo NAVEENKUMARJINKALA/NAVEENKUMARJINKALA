@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .jinkalanaveekumar2024@gmail.com
-- 😄 Pronouns: ...Naveen
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
 <!---
